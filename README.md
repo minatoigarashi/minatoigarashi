@@ -11,9 +11,9 @@
 
 <h3 align="center" style="color: #4A90E2;">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/dev_3710" target="_blank" style="margin: 0 10px;">
+<!--   <a href="https://twitter.com/dev_3710" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igarashi3710" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/minato-igarashi" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minato-igarashi" height="30" width="40" />
   </a>
