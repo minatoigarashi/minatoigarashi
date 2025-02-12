@@ -79,11 +79,11 @@
 <tr>
 <td valign="top" width="50%">
   <h4 align="center">📊 Top Languages by Repository</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatoigarashi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages by Repository" width="100%"/>
+  <img src="https://raw.githubusercontent.com/minatoigarashi/github-stats/main/repo-languages.svg" alt="Top Languages by Repository" width="100%"/>Languages by Repository" width="100%"/>
 </td>
 <td valign="top" width="50%">
   <h4 align="center">📈 Top Languages by Commit</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatoigarashi&layout=compact&theme=tokyonight&hide_border=true&count_weight=1&size_weight=0&include_all_commits=true&count_private=true" alt="Top Languages by Commit" width="100%"/>
+  <img src="https://raw.githubusercontent.com/minatoigarashi/github-stats/main/commit-languages.svg" alt="Top Languages by Commit" width="100%"/>
 </td>
 </tr>
 </table>
