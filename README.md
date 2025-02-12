@@ -11,21 +11,18 @@
 <td valign="top" width="50%">
 
 #### 🚀 About Me
-
 - 🔭 Focused on **Web Development & Digital Innovation**
 - 🌱 Currently expanding **Cloud Infrastructure & Service Development**
 - 💡 Passionate about **Creating Impactful Digital Solutions**
 - 🚀 Running **Welcome Stay Booking Platform**
 
 #### 🛠️ Workspace
-
 - 💻 MacBook
 - 🖥️ Windows
 - ⌨️ Mechanical Keyboard Enthusiast
 - 📝 VSCode
 
 #### 🤝 Connect with me
-
 <p>
   <a href="https://www.linkedin.com/in/minato-igarashi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,12 +31,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 </td>
 <td valign="top" width="50%">
 
 #### 💻 Tech Stack
-
 <details open>
   <summary><b>Frontend</b></summary>
   <br/>
@@ -74,9 +69,21 @@
 </details>
 
 #### 🌟 Highlighted Projects
-
 - 🏡 **[Welcome Stay](https://welcome-stay-lp.com/)**: Self-developed accommodation booking service, connecting unique stays with travelers
+</td>
+</tr>
+</table>
 
+<!-- GitHub Stats -->
+<table>
+<tr>
+<td valign="top" width="50%">
+  <h4 align="center">📊 Top Languages by Repository</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatoigarashi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages by Repository" width="100%"/>
+</td>
+<td valign="top" width="50%">
+  <h4 align="center">📈 Top Languages by Commit</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatoigarashi&layout=compact&theme=tokyonight&hide_border=true&count_weight=1&size_weight=0&include_all_commits=true&count_private=true" alt="Top Languages by Commit" width="100%"/>
 </td>
 </tr>
 </table>
