@@ -79,7 +79,7 @@
 <tr>
 <td valign="top" width="50%">
   <h4 align="center">📊 Top Languages by Repository</h4>
-  <img src="https://raw.githubusercontent.com/minatoigarashi/github-stats/main/repo-languages.svg" alt="Top Languages by Repository" width="100%"/>Languages by Repository" width="100%"/>
+  <img src="https://raw.githubusercontent.com/minatoigarashi/github-stats/main/repo-languages.svg" alt="Top Languages by Repository" width="100%"/>
 </td>
 <td valign="top" width="50%">
   <h4 align="center">📈 Top Languages by Commit</h4>
