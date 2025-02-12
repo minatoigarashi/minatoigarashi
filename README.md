@@ -12,7 +12,6 @@
 
 #### 🚀 About Me
 
-- 🏢 CEO at **Synthalpha Co., Ltd.**
 - 🔭 Focused on **Web Development & Digital Innovation**
 - 🌱 Currently expanding **Cloud Infrastructure & Service Development**
 - 💡 Passionate about **Creating Impactful Digital Solutions**
@@ -76,7 +75,6 @@
 
 #### 🌟 Highlighted Projects
 
-- 🏢 **[Synthalpha Co., Ltd.](https://synthalpha.co.jp/)**: An independent web development company specializing in bespoke software solutions.
 - 🏡 **[Welcome Stay](https://welcome-stay-lp.com/)**: Self-developed accommodation booking service, connecting unique stays with travelers
 
 </td>
