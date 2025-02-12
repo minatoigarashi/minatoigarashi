@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minato+Igarashi;Software+Engineer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;4%2B+Years+of+Coding+Experience" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minato+Igarashi;Software+Engineer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;7%2B+Years+of+Coding+Experience" alt="Typing SVG" />
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=minatoigarashi&label=Profile%20views&color=0e75b6&style=flat" alt="minatoigarashi">
     <img src="https://img.shields.io/github/followers/minatoigarashi?label=Followers&style=social" alt="followers">
@@ -13,10 +12,18 @@
 
 #### 🚀 About Me
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Cloud Architecture & DevOps**
-- 💬 Ask me about **Next.js, Angular, Python, and Cloud Technologies**
-- 📫 How to reach me: **LinkedIn or Email**
+- 🏢 CEO at **Synthalpha Co., Ltd.**
+- 🔭 Focused on **Web Development & Digital Innovation**
+- 🌱 Currently expanding **Cloud Infrastructure & Service Development**
+- 💡 Passionate about **Creating Impactful Digital Solutions**
+- 🚀 Running **Welcome Stay Booking Platform**
+
+#### 🛠️ Workspace
+
+- 💻 MacBook
+- 🖥️ Windows
+- ⌨️ Mechanical Keyboard Enthusiast
+- 📝 VSCode
 
 #### 🤝 Connect with me
 
@@ -66,6 +73,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </details>
+
+#### 🌟 Highlighted Projects
+
+- 🏢 **[Synthalpha Co., Ltd.](https://synthalpha.co.jp/)**: An independent web development company specializing in bespoke software solutions.
+- 🏡 **[Welcome Stay](https://welcome-stay-lp.com/)**: Self-developed accommodation booking service, connecting unique stays with travelers
 
 </td>
 </tr>
