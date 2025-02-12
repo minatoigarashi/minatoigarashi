@@ -1,36 +1,72 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2;">
-  Hi 👋, I'm Minato Igarashi
-</h1>
-<h3 align="center" style="color: #444; font-style: italic;">
-  A passionate software engineer from Japan 🇯🇵
-</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minatoigarashi&label=Profile%20views&color=0e75b6&style=flat" alt="minatoigarashi">
-</p>
-<h3 align="center" style="color: #4A90E2;">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/minato-igarashi" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minato-igarashi" height="30" width="40" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minato+Igarashi;Software+Engineer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;4%2B+Years+of+Coding+Experience" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=minatoigarashi&label=Profile%20views&color=0e75b6&style=flat" alt="minatoigarashi">
+    <img src="https://img.shields.io/github/followers/minatoigarashi?label=Followers&style=social" alt="followers">
+  </p>
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🚀 About Me
+
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Cloud Architecture & DevOps**
+- 💬 Ask me about **Next.js, Angular, Python, and Cloud Technologies**
+- 📫 How to reach me: **LinkedIn or Email**
+
+#### 🤝 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/minato-igarashi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:m.igarashi0307@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-<h3 align="center" style="color: #4A90E2;">Skills:</h3>
-<p align="center" style="font-size: 1.2em;">
-  <span title="Next.js">Next.js</span> •
-  <span title="Angular">Angular</span> •
-  <span title="Python">Python</span> •
-  <span title="Java">Java</span> •
-  <span title="PHP">PHP</span> •
-  <span title="MySQL">MySQL</span> •
-  <span title="PostgreSQL">PostgreSQL</span> •
-  <span title="Docker">Docker</span> •
-  <span title="Azure">Azure</span> •
-  <span title="Figma">Figma</span>
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatoigarashi&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minatoigarashi&theme=dark" alt="GitHub Streak" />
-</p>
+#### 💻 Tech Stack
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</details>
+
+<details open>
+  <summary><b>Backend</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</details>
+
+<details open>
+  <summary><b>Database & DevOps</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure"/>
+</details>
+
+<details open>
+  <summary><b>Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</details>
+
+</td>
+</tr>
+</table>
