@@ -69,7 +69,7 @@
 </details>
 
 #### 🌟 Highlighted Projects
-- 🏡 **[Welcome Stay](https://welcome-stay-lp.com/)**: Self-developed accommodation booking service, connecting unique stays with travelers
+- 🏡 **[WELCOME STAY](https://welcome-stay-lp.com/)**: Self-developed accommodation booking service, connecting unique stays with travelers
 </td>
 </tr>
 </table>
